@@ -1,4 +1,4 @@
-# Código escrito em Python (pelo meu amigo Lucas para criar um programa de cáculo da média das notas dos alunos. 
+# Código escrito em Python (com ajuda de um  amigo)  para criar um programa de cáculo da média das notas dos alunos. 
 print('Calculo da media dos alunos')
 
 alunos = {}
